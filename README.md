@@ -7,6 +7,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Peterged&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Peterged&icon=0&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Peterged)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
